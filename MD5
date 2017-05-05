@@ -1,6 +1,6 @@
-242b3ce978610b6228c855b6bbba61bd *DESCRIPTION
+2599c8a4a49ca4902af4bb3b1b1e814b *DESCRIPTION
 4bda3b6a5b17e3c32cdc81fd07deaedc *NAMESPACE
-9a604f167a418c3ba87f0acf960fbcb8 *NEWS.md
+c2378f4019e7c6c6b00790da633d8519 *NEWS.md
 918fa93d1abea819fe4fb0a888a93a6c *R/EmmixWire2.R
 155ae78681f9606bcba1028b7b73ed5d *data/expr.norm.rda
 3f11dec9a49b53af9f166738eade1e24 *data/hedenlc.rda
@@ -16,9 +16,9 @@ cf8ed673c2a884640ca68f9f64b70adf *man/wj2.permuted.Rd
 36b908d3deac02434ab5c046ed93463b *src/EMMIXcontrasts2_init.c
 6e1e93543b9bf21cb866b2b9c7918a71 *src/Makevars
 569e6c583dcbf4fb677d11ab0f46b0b8 *src/density.c
-371d0110590cc7d5d156977be474638e *src/density2.f
+0c8eb7af6c905ebd2cd78ed469963248 *src/density2.f
 dc1eb54d3bacf90c478c5f67d3c3be29 *src/emmix.h
-c41198b5eeeb3e9043fbce40d2911b65 *src/emmixfdr.c
+77ff498eb73fbe25b2b70ff4f442c0a8 *src/emmixfdr.c
 486aa211ba099c4e013dc8b4a573a525 *src/estep.c
 2629ecf4dfd67ea0136b50cf44ba754c *src/mixda.f
 9e13fea27c79fc0dee1ef45acae71e9f *src/mixem.c
